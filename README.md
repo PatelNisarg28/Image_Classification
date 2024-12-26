@@ -1,11 +1,11 @@
-<<<<<<< HEAD
 
-# Image_Classification
 
-# **Cat vs Dog Image Classification API**  
-=======
-# **Image Classification API: Cats vs Dogs**
->>>>>>> 439e7df (changes)
+### Image_Classification
+
+### **Cat vs Dog Image Classification API**  
+
+### **Image Classification API: Cats vs Dogs**
+
 
 This repository contains an **API for identifying whether an image contains a cat or a dog**, powered by a pre-trained deep learning model.
 
